@@ -1,6 +1,6 @@
 # FuseSharp
 
-![Nuget](https://img.shields.io/nuget/v/FuseSharp)
+[![Nuget](https://img.shields.io/nuget/v/FuseSharp)](https://www.nuget.org/packages/FuseSharp)
 
 A .NET port of https://github.com/krisk/fuse-swift
 
