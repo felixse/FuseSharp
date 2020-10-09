@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuseSharp", "FuseSharp\FuseSharp.csproj", "{22891510-DAF8-45EF-8650-00AF674EAED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22891510-DAF8-45EF-8650-00AF674EAED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22891510-DAF8-45EF-8650-00AF674EAED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22891510-DAF8-45EF-8650-00AF674EAED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22891510-DAF8-45EF-8650-00AF674EAED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A4E2B04-990E-4604-8402-5685C1FDB50B}
+	EndGlobalSection
+EndGlobal
