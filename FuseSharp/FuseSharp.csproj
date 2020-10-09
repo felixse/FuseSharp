@@ -4,6 +4,15 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Nullable>enable</Nullable>
     <LangVersion>8.0</LangVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.4.0</Version>
+    <Authors>Felix Seidl</Authors>
+    <Company />
+    <Description>A lightweight fuzzy-search library, with zero dependencies</Description>
+    <Copyright />
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/felixse/FuseSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/felixse/FuseSharp</RepositoryUrl>
   </PropertyGroup>
 
 </Project>

@@ -1,4 +1,7 @@
 # FuseSharp
+
+![Nuget](https://img.shields.io/nuget/v/FuseSharp)
+
 A .NET port of https://github.com/krisk/fuse-swift
 
 ## What is Fuse?
